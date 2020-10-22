@@ -201,6 +201,7 @@ body{
     background: rgb(231, 226, 221);
     padding: 1.5rem;
     transition: all 0.3s linear; /*???????????????*/
+    transform: translateX(100%);
 
 }
 .showCart {
